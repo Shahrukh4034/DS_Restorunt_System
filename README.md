@@ -123,3 +123,6 @@ This project successfully demonstrates how **machine learning and recommendation
 =======
 # DS_Restorunt_System
 >>>>>>> 7fef882a8d0ee27bcc300fce5ad5b0622281947d
+
+Demo Video Link 
+https://drive.google.com/file/d/1Kgd5VuJFSMoHIWuFj1wiOIhlhk27uJIA/view?usp=drivesdk
